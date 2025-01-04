@@ -20,9 +20,7 @@
 <!-- Introduction -->
 <div align="center">
   
- 🔭 I’m currently working on my Upwork projects <a href="https://legitimatestore.it" target="_blank" class="font-bold text-blue-500 hover:underline">LGTMT</a> and <a href="https://vilanci-amsterdam.com" target="_blank" class="font-bold text-blue-500 hover:underline">Vilanci</a>
-
-I am a senior Full Stack Developer with 8 years of experience in delivering successful projects across various e-commerce platforms.
+👋 I am a senior Full Stack Developer with 8 years of experience in delivering successful projects across various e-commerce platforms.
 With a strong focus on teamwork and client satisfaction, I have completed over 20 projects to date, earning a 100% job success record.
 
 I specialize in both frontend and backend development, proficient in technologies like React.js, Vue.js, Angular.js, PHP (Laravel, CodeIgniter), Node.js, and more.
